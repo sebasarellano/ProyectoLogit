@@ -51,11 +51,3 @@ Utilizando un punto de corte óptimo derivado de la curva ROC ($0.5174$), el mod
 - **Especificidad:** $77.44\%$[cite: 2]
 - **Área bajo la curva (AUC):** $0.7895$ (demostrando una capacidad predictiva aceptable y sólida para la clasificación de riesgo)[cite: 2].
 
----
-
-## 🗂️ Estructura del Repositorio
-```text
-📂 modelo-logit-morosidad/
-├── 📄 README.md                # Documentación del proyecto
-├── 📜 script_analisis.R        # Código completo en R (limpieza, modelos y gráficos)
-└── 📂 data/                    # (Opcional) Datos anonimizados de clientes
